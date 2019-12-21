@@ -91,20 +91,19 @@
 			<scope>provided</scope>
 		</dependency>
 		
-	</dependencies>
-	
+	</dependencies>	
 	<distributionManagement>
 	
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.234.136.163:8081/repository/flipcark-release//repository/flipkart-releases/</url>
+	      <url>http://52.66.196.182:8081/repository/flipcark-release//repository/flipkart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.234.136.163:8081/repository/flipcark-snapshot//repository/flipkart-snapshot/</url>
+	      <url>http://http://52.66.196.182:8081/rep/ository/flipcark-snapshot/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
